@@ -15,9 +15,13 @@ controls: true
 
 ### What is Kubernetes?
 
-- Google Product 
-- Container Network Foundations
-- Major provides all support Hosted Kubernetes  
+- Open sourced in June 2014
+- 1.0 in June 2015
+- 1.8 tagged Sept 2017
+- Founding Project of CNCF
+<img src="https://www.cncf.io/wp-content/uploads/2017/10/cncf_color-1.png" width="100%">
+- Major provides all support hosted Kubernetes  
+
 ---
 
 ### How does it help teams?
@@ -28,7 +32,8 @@ controls: true
 ---
 
 ## Preflight check
-- Three Nodes 
+- Containers
+- Multiple Nodes (3+)
 - Docker Registry
 - CI/CD Workflow
 ---
@@ -47,7 +52,7 @@ controls: true
 - Kinds 
 - Versions
 - Containers
-
+---
 
 ## MiniKube
 
@@ -59,7 +64,7 @@ controls: true
     - Not multi tenant 
     - Not same API mirror across cloud providers
     - Not all addons supported
-
+---
 
 ## Your team
 
@@ -70,23 +75,29 @@ Application that has a bunch of things Web Service
 - Reverse Proxy
 - Caching
 
+---
 
 ## Demonstration 
 
 Diagram
+---
 
 ## Demonstration 
 
 What would you do normally
 
+---
+## Kubernetes allows you to do  
 
-
+What would you do normally
+---
 ## Resources
 
 - Architecture Diagram -> http://gist-reveal.it/bit.ly/k8s-miniarch#/18
 - Components - http://gist-reveal.it/bit.ly/k8s-miniarch 
 - Using the Command line http://gist-reveal.it/bit.ly/k8s-kubectl 
 
+---
 ## Thank you
 
 - Keep going -> https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
