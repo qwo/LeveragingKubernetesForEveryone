@@ -16,8 +16,9 @@ controls: true
 ### What is Kubernetes?
 
 - Google Product 
-- Container Network Foundations 
---
+- Container Network Foundations
+- Major provides all support Hosted Kubernetes  
+---
 
 ### How does it help teams?
 - Build faster, Ship Faster
@@ -27,11 +28,20 @@ controls: true
 ---
 
 ## Preflight check
-
----
 - Three Nodes 
 - Docker Registry
+- CI/CD Workflow
+---
 
+<!-- Going Minions  -->
+<img src="https://i.makeagif.com/media/3-03-2014/rytKR2.gif" width="100%">
+---
+
+<!-- Feels more like this -->
+
+<img src="http://www.gifbin.com/bin/102010/1285930405_four-lions-bazooka-fail.gif" width="100%">
+
+---
 
 ## Components 
 - Kinds 
