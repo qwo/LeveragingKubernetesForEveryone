@@ -128,4 +128,3 @@ Our Architecture
 
 <!-- Going Minions  -->
 <img src="https://i.makeagif.com/media/3-03-2014/rytKR2.gif" width="100%">
----
