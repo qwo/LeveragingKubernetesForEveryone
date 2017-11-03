@@ -8,10 +8,18 @@ controls: true
 
 --
 
-# Leveraging Kubernetes for Everyone
-## Using it for Devops for all teams
+# Leveraging Kubernetes for Everyone*
+## **see terms and conditions
 
 --
+
+### Hi!
+
+- I work @<img src="https://www.homes.com/images/default/homescom_logo.png">
+- Software Developer
+
+---
+
 
 ### What is Kubernetes?
 
@@ -24,6 +32,11 @@ controls: true
 
 ---
 
+<!-- Feels more like this -->
+Expectation
+<img src="https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.jpg" width="100%">
+- src https://github.com/cncf/landscape
+---
 ### How does it help teams?
 - Build faster, Ship Faster
 - Reslient Containers
@@ -102,12 +115,25 @@ Application that has a bunch of things Web Service
 - Caching
 
 ---
-Microservices
-<img src="https://i.pinimg.com/originals/98/1b/89/981b89570cb0eac2a5e6694468c09b4b.png" width="80%" height="80%"/>
+Typical application
+<img src="https://qph.ec.quoracdn.net/main-qimg-5b8405bc2155362c88a5a817a1c47077" width="80%" height="80%"/>
+
+---
+Microservices?
+<img src="https://www.ibm.com/developerworks/websphere/library/techarticles/1601_clark-trs/images/figure5.jpg" width="80%" height="60%"/>
+
+---
+Microservices!
+<img src="https://i.pinimg.com/originals/98/1b/89/981b89570cb0eac2a5e6694468c09b4b.png" width="80%" height="60%"/>
+
 
 ---
 Our Architecture
 <img src="http://i.imgur.com/MIArQiP.png"/>
+---
+
+What's in Kubernetes?
+<img src="https://cdn.thenewstack.io/media/2016/08/Kubernetes-Architecture-1024x637.png"  width="80%" height="60%"/>
 ---
 
 ## Kubernetes Overview
