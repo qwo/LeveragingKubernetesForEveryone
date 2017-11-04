@@ -17,8 +17,20 @@ controls: true
 
 - I work @<img src="https://www.homes.com/images/default/homescom_logo.png">
 - Software Developer
+- Started shipping apps in 2012
+    - I ❤️ the Web
+    - Volunteer for Code4HR.org
+    - Co-Organizer for Norfolk.js
 
 ---
+
+### Hi to you
+
+<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" height="60%" width="60%">
+
+---
+
+
 
 
 ### What is Kubernetes?
