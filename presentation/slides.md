@@ -45,7 +45,7 @@ controls: true
 ---
 
 <!-- Feels more like this -->
-Expectation
+All the open source projects!
 <img src="https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.jpg" width="100%">
 - src https://github.com/cncf/landscape
 ---
